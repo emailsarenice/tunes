@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#cpanel directories and files
+.well-known
+cgi-bin
